@@ -1,12 +1,12 @@
 @font-face {
     font-family: veteran;
-    src: url('{{ site.url }/fonts/puree____2.ttf") format('truetype');
+    src: url('/fonts/puree____2.ttf") format('truetype');
 	font-weight: bold;
     font-style: normal;
 }
 @font-face {
     font-family: start;
-    src: url('{{ site.url }/fonts/prstart.ttf") format('truetype');
+    src: url('/fonts/prstart.ttf") format('truetype');
 	 font-weight: bold;
     font-style: normal;
 }
