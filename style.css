@@ -1,10 +1,10 @@
 @font-face {
     font-family: veteran;
-    src: url("fonts\puree____2.ttf");
+    src: url("puree____2.ttf");
 }
 @font-face {
     font-family: start;
-    src: url("fonts\prstart.ttf");
+    src: url("prstart.ttf");
 }
 body {
   margin: 0px;
